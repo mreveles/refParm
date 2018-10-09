@@ -1,0 +1,11 @@
+C:\Users\revel\Documents\Fall 2018\4360( obj anylysis and design)\ClassPrograms\refParm\bin\Debug\netcoreapp2.1\refParm.deps.json
+C:\Users\revel\Documents\Fall 2018\4360( obj anylysis and design)\ClassPrograms\refParm\bin\Debug\netcoreapp2.1\refParm.runtimeconfig.json
+C:\Users\revel\Documents\Fall 2018\4360( obj anylysis and design)\ClassPrograms\refParm\bin\Debug\netcoreapp2.1\refParm.runtimeconfig.dev.json
+C:\Users\revel\Documents\Fall 2018\4360( obj anylysis and design)\ClassPrograms\refParm\bin\Debug\netcoreapp2.1\refParm.dll
+C:\Users\revel\Documents\Fall 2018\4360( obj anylysis and design)\ClassPrograms\refParm\bin\Debug\netcoreapp2.1\refParm.pdb
+C:\Users\revel\Documents\Fall 2018\4360( obj anylysis and design)\ClassPrograms\refParm\obj\Debug\netcoreapp2.1\refParm.csprojAssemblyReference.cache
+C:\Users\revel\Documents\Fall 2018\4360( obj anylysis and design)\ClassPrograms\refParm\obj\Debug\netcoreapp2.1\refParm.csproj.CoreCompileInputs.cache
+C:\Users\revel\Documents\Fall 2018\4360( obj anylysis and design)\ClassPrograms\refParm\obj\Debug\netcoreapp2.1\refParm.AssemblyInfoInputs.cache
+C:\Users\revel\Documents\Fall 2018\4360( obj anylysis and design)\ClassPrograms\refParm\obj\Debug\netcoreapp2.1\refParm.AssemblyInfo.cs
+C:\Users\revel\Documents\Fall 2018\4360( obj anylysis and design)\ClassPrograms\refParm\obj\Debug\netcoreapp2.1\refParm.dll
+C:\Users\revel\Documents\Fall 2018\4360( obj anylysis and design)\ClassPrograms\refParm\obj\Debug\netcoreapp2.1\refParm.pdb
